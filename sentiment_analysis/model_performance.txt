@@ -1,0 +1,8 @@
+
+Best parameters found:
+{'n_estimators': 300, 'max_features': 'log2', 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 1, 'bootstrap': False}
+
+Performance:
+Train accuracy: 0.9654999324285191
+Validation accuracy: 0.9094103337988197
+Test accuracy: 0.961
